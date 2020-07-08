@@ -1,9 +1,10 @@
-mkdir layout
-mkdir foundation
-mkdir object
-makir object/component
-makir object/project
-makir object/utility
 mkdir assets
+mkdir assets/sass
+mkdir assets/sass/layout
+mkdir assets/sass/foundation
+mkdir assets/sass/object
+mkdir assets/sass/object/component
+mkdir assets/sass/object/project
+mkdir assets/sass/object/utility
 mkdir assets/js
 mkdir assets/sass
