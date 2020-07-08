@@ -1,0 +1,9 @@
+mkdir layout
+mkdir foundation
+mkdir object
+makir object/component
+makir object/project
+makir object/utility
+mkdir assets
+mkdir assets/js
+mkdir assets/sass
